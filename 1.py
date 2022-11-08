@@ -3,4 +3,5 @@ print(1)
 
 
 name = input('enter name: ')
-print(f'Hello {name}')
+age = input('How old are you ')
+print(f'Hello {name}! You are {age}' )
